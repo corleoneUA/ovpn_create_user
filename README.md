@@ -3,7 +3,7 @@
 ## Installation
 
 Use `git clone` for clone this repository.
-Uncoment on the `base.conf` line `remote #server-name# 1194` put you "servername or IP", change if you need port.
+Uncoment on the `base.conf` line `remote #server-name# 1194` put your "servername or IP", change if you need port.
 Create ca-dir `make-cadir` and edit in `make_config.sh` `KEY_DIR` to your's path.
 
 ## Usage
